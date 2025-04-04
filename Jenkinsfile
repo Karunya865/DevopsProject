@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'karunya865/devopsproject'
+        IMAGE_NAME = 'karunya08/devopsproject'
         CONTAINER_REGISTRY = 'docker.io'
     }
 
